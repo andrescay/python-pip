@@ -1,5 +1,5 @@
 # python-pip
-Learhn about python, pip and virtual enviroments
+Learn about python, pip and virtual enviroments
 
 # Game Project
 
